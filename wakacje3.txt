@@ -1,93 +1,116 @@
-cieplo aktywnie plaza europa 1 - Hiszpania, Costa del Sol 
-cieplo aktywnie plaza europa 2 - Hiszpania, Gran canaria
-cieplo aktywnie plaza europa 3 - Hiszpania Tenerifa
-cieplo aktywnie plaza europa 4 - W³ochy, Sycylia
-cieplo aktywnie plaza pozaeuropa 1 - Tunezji, Monastyr
-cieplo aktywnie plaza pozaeuropa 2 - Zjednoczone Emiraty Arabskie, Fujairah
-cieplo aktywnie plaza pozaeuropa 3 - Kania, Galu
-cieplo aktywnie plaza pozaeuropa 4 - Meksyk, Cancun
-cieplo aktywnie gory europa 1 - Grecja, Kreta
-cieplo aktywnie gory europa 2 - Bu³garia, Rodopy i Pirin
-cieplo aktywnie gory europa 3 - Portugalia, Serra da Estrela
-cieplo aktywnie gory europa 4 - Hiszpania, pierneje
-cieplo aktywnie gory pozaeuropa 1 - Turcja, Taurus
-cieplo aktywnie gory pozaeuropa 2 - Algeria, Algier
-cieplo aktywnie gory pozaeuropa 3 - Kenia, Batian
-cieplo aktywnie gory pozaeuropa 4 - Australia, Góra Koœciuszki
-cieplo aktywnie miasto europa 1 - Chorwacja, Split
-cieplo aktywnie miasto europa 2 - Hiszpania, Barcelona
-cieplo aktywnie miasto europa 3 - W³ochy, Rzym
-cieplo aktywnie miasto europa 4 - W³ochy, Palermo
-cieplo aktywnie miasto pozaeuropa 1 - Egipt, Kair
-cieplo aktywnie miasto pozaeuropa 2 - Maroko, Casablanca
-cieplo aktywnie miasto pozaeuropa 3 - USA, Miami
-cieplo aktywnie miasto pozaeuropa 4 - Australia, Sydney
+-cieplo aktywnie plaza europa 1 - Hiszpania, Costa del Sol 
+-cieplo aktywnie plaza europa 2 - Hiszpania, Gran canaria
+-cieplo aktywnie plaza europa 3 - Hiszpania Tenerifa
+-cieplo aktywnie plaza europa 4 - W³ochy, Sycylia
+-cieplo aktywnie plaza pozaeuropa 1 - Tunezji, Monastyr
+-cieplo aktywnie plaza pozaeuropa 2 - Zjednoczone Emiraty Arabskie, Fujairah
+-cieplo aktywnie plaza pozaeuropa 3 - Kenia, Galu
+-cieplo aktywnie plaza pozaeuropa 4 - Meksyk, Cancun
+-cieplo aktywnie gory europa 1 - Grecja, Kreta
+-cieplo aktywnie gory europa 2 - Bu³garia, Rodopy i Pirin
+-cieplo aktywnie gory europa 3 - Portugalia, Serra da Estrela
+-cieplo aktywnie gory europa 4 - Hiszpania, Pierneje
+-cieplo aktywnie gory pozaeuropa 1 - Turcja, Taurus
+-cieplo aktywnie gory pozaeuropa 2 - Algeria, Algier
+-cieplo aktywnie gory pozaeuropa 3 - Kenia, Batian
+-cieplo aktywnie gory pozaeuropa 4 - Australia, Góra Koœciuszki
+-cieplo aktywnie miasto europa 1 - Chorwacja, Split
+-cieplo aktywnie miasto europa 2 - Hiszpania, Barcelona
+-cieplo aktywnie miasto europa 3 - W³ochy, Rzym
+-cieplo aktywnie miasto europa 4 - W³ochy, Palermo
+-cieplo aktywnie miasto pozaeuropa 1 - Egipt, Kair
+-cieplo aktywnie miasto pozaeuropa 2 - Maroko, Casablanca
+-cieplo aktywnie miasto pozaeuropa 3 - USA, Miami
+-cieplo aktywnie miasto pozaeuropa 4 - Australia, Sydney
 
-?cieplo <- (cieplo ?cieplo-read&tak|nie)
-(assert (cieplo =(read)))
 
-cieplo nieaktywnie plaza europa 1 - Albania. Dures
-cieplo nieaktywnie plaza europa 2 - Bu³garia, Warna
-cieplo nieaktywnie plaza europa 3 - Grecja, Zakyntos
-cieplo nieaktywnie plaza europa 4 - W³ochy, Sycylia
-cieplo nieaktywnie plaza pozaeuropa 1 - Tunezja, Tunis
-cieplo nieaktywnie plaza pozaeuropa 2 - Sri Lanka, Indie
-cieplo nieaktywnie plaza pozaeuropa 3 - Kenia, Zanzibar
-cieplo nieaktywnie plaza pozaeuropa 4 - Karaiby, Dominikana
-cieplo nieaktywnie gory europa 1 - Grecja, Kreta
-cieplo nieaktywnie gory europa 2 - Hiszpania, pierneje
-cieplo nieaktywnie gory europa 3 - Portugalia, Serra da Estrela
-cieplo nieaktywnie gory europa 4 - Szwajcaria, alpy
+
+
+-cieplo nieaktywnie plaza europa 1 - Albania. Dures
+-cieplo nieaktywnie plaza europa 2 - Bu³garia, Warna
+-cieplo nieaktywnie plaza europa 3 - Grecja, Zakyntos
+-cieplo nieaktywnie plaza europa 4 - W³ochy, Sycylia
+
+-cieplo nieaktywnie plaza pozaeuropa 1 - Tunezja, Tunis
+-cieplo nieaktywnie plaza pozaeuropa 2 - Sri Lanka, Indie
+-cieplo nieaktywnie plaza pozaeuropa 3 - Kenia, Zanzibar
+-cieplo nieaktywnie plaza pozaeuropa 4 - Karaiby, Dominikana
+
+-cieplo nieaktywnie gory europa 1 - Grecja, Kreta
+-cieplo nieaktywnie gory europa 2 - Hiszpania, pierneje
+-cieplo nieaktywnie gory europa 3 - Portugalia, Serra da Estrela
+-cieplo nieaktywnie gory europa 4 - Szwajcaria, alpy
+
 cieplo nieaktywnie gory pozaeuropa 1 - Turcja, Taurus
 cieplo nieaktywnie gory pozaeuropa 2 - Algeria, Algier
 cieplo nieaktywnie gory pozaeuropa 3 - Kenia, Batian
 cieplo nieaktywnie gory pozaeuropa 4 - Australia, Góra Koœciuszki
+
 cieplo nieaktywnie miasto europa 1 - Split Chorwacja
 cieplo nieaktywnie miasto europa 2 - Rzym W³ochy
 cieplo nieaktywnie miasto europa 3 - Ateny Grecja
 cieplo nieaktywnie miasto europa 4 - Barcelona Hiszpania 
+
 cieplo nieaktywnie miasto pozaeuropa 1 - Tunis Tunezja
 cieplo nieaktywnie miasto pozaeuropa 2 - Dubaj Zjednoczone Emiraty Arabskie
 cieplo nieaktywnie miasto pozaeuropa 3 - Los Angeles, USA
 cieplo nieaktywnie miasto pozaeuropa 4 - Sydney, Australia
 
+
+
+
+
 niecieplo aktywnie polska plaza 1 - Mielno
 niecieplo aktywnie polska plaza 2 - £eba
 niecieplo aktywnie polska plaza 3 - Ko³obrzeg
 niecieplo aktywnie polska plaza 4 - W³adys³awowo
+
 niecieplo aktywnie polska gory 1 - Bieszczady
 niecieplo aktywnie polska gory 2 - Góry Sto³owe
 niecieplo aktywnie polska gory 3 - Tatry
 niecieplo aktywnie polska gory 4 - Pieniny
+
 niecieplo aktywnie polska miasto 1 - Gdañsk
 niecieplo aktywnie polska miasto 2 - Wroc³aw
 niecieplo aktywnie polska miasto 3 - Kraków
 niecieplo aktywnie polska miasto 4 - Warszawa
 
+
+
+
 niecieplo aktywnie niepolska plaza europa 1 - Romo Dania
 niecieplo aktywnie niepolska plaza europa 2 - Omaha Beach Francja
 niecieplo aktywnie niepolska plaza europa 3 - Pula Chorwacja
 niecieplo aktywnie niepolska plaza europa 4 - Refviksanden Beach Norwegia
+
 niecieplo aktywnie niepolska gory europa 1 - Tatry S³owacja
 niecieplo aktywnie niepolska gory europa 2 - Lom Norwegia
 niecieplo aktywnie niepolska gory europa 3 - Are Szwecja
 niecieplo aktywnie niepolska gory europa 4 - Alpy Austria
+
 niecieplo aktywnie niepolska miasto europa 1 - Austria Wieden
 niecieplo aktywnie niepolska miasto europa 2 - Sztokcholm Szwecja
 niecieplo aktywnie niepolska miasto europa 3 - Zurych Szwecja
 niecieplo aktywnie niepolska miasto europa 4 - Londyn Wielka Brytania
+
 niecieplo aktywnie niepolska plaza pozaeuropa 1 - Reynishverfi Islandia
 niecieplo aktywnie niepolska plaza pozaeuropa 2 - Batumi Gruzja
 niecieplo aktywnie niepolska plaza pozaeuropa 3 - W³adywostok, Szklana Pla¿a Rosja
 niecieplo aktywnie niepolska plaza pozaeuropa 4 - Ontario Kanada
+
 niecieplo aktywnie niepolska gory pozaeuropa 1 - Taurus Turcja
 niecieplo aktywnie niepolska gory pozaeuropa 2 - Kaukaz Rosja
 niecieplo aktywnie niepolska gory pozaeuropa 3 - Góry Skaliste Kanada
 niecieplo aktywnie niepolska gory pozaeuropa 4 - Alaska Alaska
+
 niecieplo aktywnie niepolska miasto pozaeuropa 1 - Moskwa Rosja
 niecieplo aktywnie niepolska miasto pozaeuropa 2 - Rejkiawik
 niecieplo aktywnie niepolska miasto pozaeuropa 3 - Tokyo Japonia
 niecieplo aktywnie niepolska miasto pozaeuropa 4 - Nowy York USA
+
+
+
+
 
 niecieplo aktywnie polska plaza 1 - Mielno
 niecieplo aktywnie polska plaza 2 - £eba
