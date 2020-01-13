@@ -41,20 +41,72 @@
 -cieplo nieaktywnie gory europa 3 - Portugalia, Serra da Estrela
 -cieplo nieaktywnie gory europa 4 - Szwajcaria, alpy
 
-cieplo nieaktywnie gory pozaeuropa 1 - Turcja, Taurus
-cieplo nieaktywnie gory pozaeuropa 2 - Algeria, Algier
-cieplo nieaktywnie gory pozaeuropa 3 - Kenia, Batian
-cieplo nieaktywnie gory pozaeuropa 4 - Australia, Góra Koœciuszki
+-cieplo nieaktywnie gory pozaeuropa 1 - Turcja, Taurus
+-cieplo nieaktywnie gory pozaeuropa 2 - Algeria, Algier
+-cieplo nieaktywnie gory pozaeuropa 3 - Kenia, Batian
+-cieplo nieaktywnie gory pozaeuropa 4 - Australia, Góra Koœciuszki
 
-cieplo nieaktywnie miasto europa 1 - Split Chorwacja
-cieplo nieaktywnie miasto europa 2 - Rzym W³ochy
-cieplo nieaktywnie miasto europa 3 - Ateny Grecja
-cieplo nieaktywnie miasto europa 4 - Barcelona Hiszpania 
+-cieplo nieaktywnie miasto europa 1 - Split Chorwacja
+-cieplo nieaktywnie miasto europa 2 - Rzym W³ochy
+-cieplo nieaktywnie miasto europa 3 - Ateny Grecja
+-cieplo nieaktywnie miasto europa 4 - Barcelona Hiszpania 
 
-cieplo nieaktywnie miasto pozaeuropa 1 - Tunis Tunezja
-cieplo nieaktywnie miasto pozaeuropa 2 - Dubaj Zjednoczone Emiraty Arabskie
-cieplo nieaktywnie miasto pozaeuropa 3 - Los Angeles, USA
-cieplo nieaktywnie miasto pozaeuropa 4 - Sydney, Australia
+-cieplo nieaktywnie miasto pozaeuropa 1 - Tunis Tunezja
+-cieplo nieaktywnie miasto pozaeuropa 2 - Dubaj Zjednoczone Emiraty Arabskie
+-cieplo nieaktywnie miasto pozaeuropa 3 - Los Angeles, USA
+-cieplo nieaktywnie miasto pozaeuropa 4 - Sydney, Australia
+
+
+
+
+
+-niecieplo aktywnie polska plaza 1 - Mielno
+-niecieplo aktywnie polska plaza 2 - £eba
+-niecieplo aktywnie polska plaza 3 - Ko³obrzeg
+-niecieplo aktywnie polska plaza 4 - W³adys³awowo
+
+-niecieplo aktywnie polska gory 1 - Bieszczady
+-niecieplo aktywnie polska gory 2 - Góry Sto³owe
+-niecieplo aktywnie polska gory 3 - Tatry
+-niecieplo aktywnie polska gory 4 - Pieniny
+
+-niecieplo aktywnie polska miasto 1 - Gdañsk
+-niecieplo aktywnie polska miasto 2 - Wroc³aw
+-niecieplo aktywnie polska miasto 3 - Kraków
+-niecieplo aktywnie polska miasto 4 - Warszawa
+
+
+
+
+-niecieplo aktywnie niepolska plaza europa 1 - Romo Dania
+-niecieplo aktywnie niepolska plaza europa 2 - Omaha Beach Francja
+-niecieplo aktywnie niepolska plaza europa 3 - Pula Chorwacja
+-niecieplo aktywnie niepolska plaza europa 4 - Refviksanden Beach Norwegia
+
+-niecieplo aktywnie niepolska gory europa 1 - Tatry S³owacja
+-niecieplo aktywnie niepolska gory europa 2 - Lom Norwegia
+-niecieplo aktywnie niepolska gory europa 3 - Are Szwecja
+-niecieplo aktywnie niepolska gory europa 4 - Alpy Austria
+
+-niecieplo aktywnie niepolska miasto europa 1 - Austria Wieden
+-niecieplo aktywnie niepolska miasto europa 2 - Sztokholm Szwecja
+-niecieplo aktywnie niepolska miasto europa 3 - Zurych Szwecja
+-niecieplo aktywnie niepolska miasto europa 4 - Londyn Wielka Brytania
+
+-niecieplo aktywnie niepolska plaza pozaeuropa 1 - Reynishverfi Islandia
+-niecieplo aktywnie niepolska plaza pozaeuropa 2 - Batumi Gruzja
+-niecieplo aktywnie niepolska plaza pozaeuropa 3 - W³adywostok, Szklana Pla¿a Rosja
+-niecieplo aktywnie niepolska plaza pozaeuropa 4 - Ontario Kanada
+
+-niecieplo aktywnie niepolska gory pozaeuropa 1 - Taurus Turcja
+-niecieplo aktywnie niepolska gory pozaeuropa 2 - Kaukaz Rosja
+-niecieplo aktywnie niepolska gory pozaeuropa 3 - Góry Skaliste Kanada
+-niecieplo aktywnie niepolska gory pozaeuropa 4 - Alaska Alaska
+
+-niecieplo aktywnie niepolska miasto pozaeuropa 1 - Moskwa Rosja
+-niecieplo aktywnie niepolska miasto pozaeuropa 2 - Rejkiawik Islandia
+-niecieplo aktywnie niepolska miasto pozaeuropa 3 - Tokyo Japonia
+-niecieplo aktywnie niepolska miasto pozaeuropa 4 - Nowy Jork USA
 
 
 
@@ -70,56 +122,6 @@ niecieplo aktywnie polska gory 2 - Góry Sto³owe
 niecieplo aktywnie polska gory 3 - Tatry
 niecieplo aktywnie polska gory 4 - Pieniny
 
-niecieplo aktywnie polska miasto 1 - Gdañsk
-niecieplo aktywnie polska miasto 2 - Wroc³aw
-niecieplo aktywnie polska miasto 3 - Kraków
-niecieplo aktywnie polska miasto 4 - Warszawa
-
-
-
-
-niecieplo aktywnie niepolska plaza europa 1 - Romo Dania
-niecieplo aktywnie niepolska plaza europa 2 - Omaha Beach Francja
-niecieplo aktywnie niepolska plaza europa 3 - Pula Chorwacja
-niecieplo aktywnie niepolska plaza europa 4 - Refviksanden Beach Norwegia
-
-niecieplo aktywnie niepolska gory europa 1 - Tatry S³owacja
-niecieplo aktywnie niepolska gory europa 2 - Lom Norwegia
-niecieplo aktywnie niepolska gory europa 3 - Are Szwecja
-niecieplo aktywnie niepolska gory europa 4 - Alpy Austria
-
-niecieplo aktywnie niepolska miasto europa 1 - Austria Wieden
-niecieplo aktywnie niepolska miasto europa 2 - Sztokcholm Szwecja
-niecieplo aktywnie niepolska miasto europa 3 - Zurych Szwecja
-niecieplo aktywnie niepolska miasto europa 4 - Londyn Wielka Brytania
-
-niecieplo aktywnie niepolska plaza pozaeuropa 1 - Reynishverfi Islandia
-niecieplo aktywnie niepolska plaza pozaeuropa 2 - Batumi Gruzja
-niecieplo aktywnie niepolska plaza pozaeuropa 3 - W³adywostok, Szklana Pla¿a Rosja
-niecieplo aktywnie niepolska plaza pozaeuropa 4 - Ontario Kanada
-
-niecieplo aktywnie niepolska gory pozaeuropa 1 - Taurus Turcja
-niecieplo aktywnie niepolska gory pozaeuropa 2 - Kaukaz Rosja
-niecieplo aktywnie niepolska gory pozaeuropa 3 - Góry Skaliste Kanada
-niecieplo aktywnie niepolska gory pozaeuropa 4 - Alaska Alaska
-
-niecieplo aktywnie niepolska miasto pozaeuropa 1 - Moskwa Rosja
-niecieplo aktywnie niepolska miasto pozaeuropa 2 - Rejkiawik
-niecieplo aktywnie niepolska miasto pozaeuropa 3 - Tokyo Japonia
-niecieplo aktywnie niepolska miasto pozaeuropa 4 - Nowy York USA
-
-
-
-
-
-niecieplo aktywnie polska plaza 1 - Mielno
-niecieplo aktywnie polska plaza 2 - £eba
-niecieplo aktywnie polska plaza 3 - Ko³obrzeg
-niecieplo aktywnie polska plaza 4 - W³adys³awowo
-niecieplo aktywnie polska gory 1 - Bieszczady
-niecieplo aktywnie polska gory 2 - Góry Sto³owe
-niecieplo aktywnie polska gory 3 - Tatry
-niecieplo aktywnie polska gory 4 - Pieniny
 niecieplo aktywnie polska miasto 1 - Gdañsk
 niecieplo aktywnie polska miasto 2 - Wroc³aw
 niecieplo aktywnie polska miasto 3 - Kraków
@@ -129,22 +131,27 @@ niecieplo nieaktywnie niepolska plaza europa 1 - Ramberg Norwegia
 niecieplo nieaktywnie niepolska plaza europa 2 - Hietaniemi Finlandia
 niecieplo nieaktywnie niepolska plaza europa 3 - Rauhaniemi Beach Finlandia
 niecieplo nieaktywnie niepolska plaza europa 4 - Gotlandia Szwecja
+
 niecieplo nieaktywnie niepolska gory europa 1 - Tatry S³owacja
 niecieplo nieaktywnie niepolska gory europa 2 - Lom Norwegia
 niecieplo nieaktywnie niepolska gory europa 3 - Are Szwecja
 niecieplo nieaktywnie niepolska gory europa 4 - Alpy Austria
+
 niecieplo nieaktywnie niepolska miasto europa 1 - Bratys³awa S³owacja
 niecieplo nieaktywnie niepolska miasto europa 2 - Budapeszt Wêgry
 niecieplo nieaktywnie niepolska miasto europa 3 - Amsterdam Holandia
 niecieplo nieaktywnie niepolska miasto europa 4 - Marsylia W³ochy
+
 niecieplo nieaktywnie niepolska plaza pozaeuropa 1 - Hellnar Islandia
 niecieplo nieaktywnie niepolska plaza pozaeuropa 2 - Hofn Islandia
 niecieplo nieaktywnie niepolska plaza pozaeuropa 3 - Shirarahama BeachbJaponia
 niecieplo nieaktywnie niepolska plaza pozaeuropa 4 - Grenlandia
+
 niecieplo nieaktywnie niepolska gory pozaeuropa 1 - Taurus Turcja
 niecieplo nieaktywnie niepolska gory pozaeuropa 2 - Kaukaz Rosja
 niecieplo nieaktywnie niepolska gory pozaeuropa 3 - Góry Skaliste Kanada
 niecieplo nieaktywnie niepolska gory pozaeuropa 4 - Alaska Alaska
+
 niecieplo nieaktywnie niepolska miasto pozaeuropa 1 - Dubaj Zjednoczone Emiraty Arabskie
 niecieplo nieaktywnie niepolska miasto pozaeuropa 2 - Pekin Chiny
 niecieplo nieaktywnie niepolska miasto pozaeuropa 3 - Toronto Kanada

@@ -169,7 +169,7 @@
 	(nie ?nie)
   	=>
 	(printout t "Czy miejsce wakacji ma znajdowac sie w Europie? (przeciwienstwem jest miejsce wakacji poza Europa)" crlf)
-  	(printout t "Czy miejscem wakacji ma byc europa? : (tak/nie)?" crlf)
+  	(printout t "Czy miejscem wakacji ma byc Europa? : (tak/nie)?" crlf)
   	(assert (eu =(read)))
 )
 
@@ -500,7 +500,7 @@
 	=>	
 	(printout t "Twoje miejsce to Zakyntos w Grecjii" crlf)
 )
-(defrule Sycylia
+(defrule Sycylia2
 	(cieplo tak)
 	(polska brak)
 	(aktywnie nie)
@@ -552,7 +552,7 @@
 	(printout t "Twoje miejsce to Dominikana na Karaibach" crlf)
 )
 ;;;;;;;;;;;;;;;
-(defrule Kreta
+(defrule Kreta2
 	(cieplo tak)
 	(polska brak)
 	(aktywnie nie)
@@ -593,6 +593,486 @@
 	(printout t "Twoje miejsce to gory Alpy w Szwajcarii" crlf)
 )
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(defrule Taurus2
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce gory)
+	(eu nie)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to gory Taurus w Turcji" crlf)
+)
+(defrule Algier2
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce gory)
+	(eu nie)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to gory Algier w Algerii" crlf)
+)
+(defrule Batian2
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce gory)
+	(eu nie)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to gory Batian w Kanii" crlf)
+)
+(defrule GoraKosciuszki2
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce gory)
+	(eu nie)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to Gora Kosciuszki w Asutralii" crlf)
+)
+;;;;;;;;;;;;;;;;;;;;;;;;
+(defrule Split2
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce miasto)
+	(eu tak)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to miasto Split w Chorwacji" crlf)
+)
+(defrule Rzym2
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce miasto)
+	(eu tak)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to miasto Rzym we Włoszech" crlf)
+)
+(defrule Ateny
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce miasto)
+	(eu tak)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to miasto Ateny w Grecji" crlf)
+)
+(defrule Barcelona2
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce miasto)
+	(eu tak)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to miasto Barcelona w Hiszpanii" crlf)
+)
+;;;;;;;;;;;;
+(defrule Tunis2
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce miasto)
+	(eu nie)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to miasto Tunis w Tunezji" crlf)
+)
+(defrule Dubaj
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce miasto)
+	(eu nie)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to miasto Dubaj w Zjednoczonych Emiratach Arabskich" crlf)
+)
+(defrule LosAngeles
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce miasto)
+	(eu nie)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to miasto Los Angeles w USA" crlf)
+)
+(defrule Sydney2
+	(cieplo tak)
+	(polska brak)
+	(aktywnie nie)
+	(miejsce miasto)
+	(eu nie)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to miasto Sydney w Australii" crlf)
+)
+;;;;;;;;;;;;;;;
+(defrule Mielno
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce plaza)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to plaza w Mielnie w Polsce" crlf)
+)
+(defrule Łeba
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce plaza)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to plaza w Łebie w Polsce" crlf)
+)
+(defrule Kołobrzeg
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce plaza)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to plaza w Kołobrzegu w Polsce" crlf)
+)
+(defrule Władysławowo
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce plaza)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to plaza w Władysławowie w Polsce" crlf)
+)
+;;;;;;;;;;;;;;;;;;
+(defrule Bieszczady
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce gory)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to gory Bieszczady w Polsce" crlf)
+)
+(defrule GoryStolowe
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce gory)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to Gory Stolowe w Polsce" crlf)
+)
+(defrule Pieniny
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce gory)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to gory Pieniny w Polsce" crlf)
+)
+(defrule Tatry
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce gory)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to gory Tatry w Polsce" crlf)
+)
+;;;;;;;;;;;;;;;;;
+(defrule Gdansk
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce miasto)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to miasto Gdansk w Polsce" crlf)
+)
+(defrule Wroclaw
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce miasto)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to miasto Wroclaw w Polsce" crlf)
+)
+(defrule Krakow
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce miasto)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to miasto Krakow w Polsce" crlf)
+)
+(defrule Warszawa
+	(cieplo nie)
+	(polska tak)
+	(aktywnie tak)
+	(miejsce miasto)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to miasto Warszawa w Polsce" crlf)
+)
+;;;;;;;;;;;;;
+(defrule Romo
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce plaza)
+	(eu tak)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to Romo w Danii" crlf)
+)
+(defrule OmahaBeach
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce plaza)
+	(eu tak)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to Omaha Beach w Francji" crlf)
+)
+(defrule Pula
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce plaza)
+	(eu tak)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to Pula w Chorwacji"crlf)
+)
+(defrule RefviksandenBeach
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce plaza)
+	(eu tak)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to Refviksanden Beach w Norwegii" crlf)
+)
+;;;;;;;;;;;;;;
+(defrule Tatry2
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce gory)
+	(eu tak)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to gory Tatry w Slowacji" crlf)
+)
+(defrule Lom
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce gory)
+	(eu tak)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to gory Lom w Norwegii" crlf)
+)
+(defrule Are
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce gory)
+	(eu tak)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to gory Are w Szwecji" crlf)
+)
+(defrule Alpy2
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce gory)
+	(eu tak)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to gory Alpy w Austrii" crlf)
+)
+;;;;;;;;;;;;;;;;;;;;;
+(defrule Wieden
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce miasto)
+	(eu tak)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to miasto Wieden w Austrii" crlf)
+)
+(defrule Sztokholm
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce miasto)
+	(eu tak)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to miasto Sztokholm w Szwecji" crlf)
+)
+(defrule Zurych
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce miasto)
+	(eu tak)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to miasto Zurych w Szwecji" crlf)
+)
+(defrule Londyn
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce miasto)
+	(eu tak)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to miasto Londyn w Wielkiej Brytanii" crlf)
+)
+;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(defrule Reynishverfi
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce plaza)
+	(eu nie)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to Reynishverfi na Islandii" crlf)
+)
+(defrule Batumi
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce plaza)
+	(eu nie)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to Batumi w Gruzji" crlf)
+)
+(defrule Wladywostok
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce plaza)
+	(eu nie)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to Szlana Plaza w Wladywostoku w Rosji" crlf)
+)
+(defrule Ontario
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce plaza)
+	(eu nie)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to Ontario w Kanadzie" crlf)
+)
+;;;;;;;;;;;;;;;;;;;
+(defrule Taurus3
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce gory)
+	(eu nie)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to gory Taurus w Turcji" crlf)
+)
+(defrule Kaukaz
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce gory)
+	(eu nie)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to gory Kaukaz w Rosji" crlf)
+)
+(defrule GorySkaliste
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce gory)
+	(eu nie)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to Gory Skaliste w Kanadzie" crlf)
+)
+(defrule Alaska
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce gory)
+	(eu nie)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to gory Alaska na Alasce" crlf)
+)
+;;;;;;;;;;;;;;;;;;;
+(defrule Moskwa
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce miasto)
+	(eu nie)
+	(przedzial_cen 1)
+	=>	
+	(printout t "Twoje miejsce to miasto Moskwa w Rosji" crlf)
+)
+(defrule Rejkiawik
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce miasto)
+	(eu nie)
+	(przedzial_cen 2)
+	=>	
+	(printout t "Twoje miejsce to miasto Rejkiawik na Islandii" crlf)
+)
+(defrule Tokyo
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce miasto)
+	(eu nie)
+	(przedzial_cen 3)
+	=>	
+	(printout t "Twoje miejsce to miasto Tokyo w Japonii" crlf)
+)
+(defrule NowyJork
+	(cieplo nie)
+	(polska nie)
+	(aktywnie tak)
+	(miejsce miasto)
+	(eu nie)
+	(przedzial_cen 4)
+	=>	
+	(printout t "Twoje miejsce to miasto Nowy Jork w USA" crlf)
+)
+;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
 
