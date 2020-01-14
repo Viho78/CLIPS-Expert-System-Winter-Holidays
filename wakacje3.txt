@@ -112,47 +112,51 @@
 
 
 
-niecieplo aktywnie polska plaza 1 - Mielno
-niecieplo aktywnie polska plaza 2 - £eba
-niecieplo aktywnie polska plaza 3 - Ko³obrzeg
-niecieplo aktywnie polska plaza 4 - W³adys³awowo
+-niecieplo nieaktywnie polska plaza 1 - Ustka
+-niecieplo nieaktywnie polska plaza 2 - Miêdzywodzie
+-niecieplo nieaktywnie polska plaza 3 - Hel
+-niecieplo nieaktywnie polska plaza 4 - Krynica Morska
 
-niecieplo aktywnie polska gory 1 - Bieszczady
-niecieplo aktywnie polska gory 2 - Góry Sto³owe
-niecieplo aktywnie polska gory 3 - Tatry
-niecieplo aktywnie polska gory 4 - Pieniny
+-niecieplo nieaktywnie polska gory 1 - Góry Sowie
+-niecieplo nieaktywnie polska gory 2 - Masyw Œnie¿ka
+-niecieplo nieaktywnie polska gory 3 - Beskid ¯ywiecki
+-niecieplo nieaktywnie polska gory 4 - Tatry
 
-niecieplo aktywnie polska miasto 1 - Gdañsk
-niecieplo aktywnie polska miasto 2 - Wroc³aw
-niecieplo aktywnie polska miasto 3 - Kraków
-niecieplo aktywnie polska miasto 4 - Warszawa
+-niecieplo nieaktywnie polska miasto 1 - Gdañsk
+-niecieplo nieaktywnie polska miasto 2 - Wroc³aw
+-niecieplo nieaktywnie polska miasto 3 - Kraków
+-niecieplo nieaktywnie polska miasto 4 - Warszawa
 
-niecieplo nieaktywnie niepolska plaza europa 1 - Ramberg Norwegia
-niecieplo nieaktywnie niepolska plaza europa 2 - Hietaniemi Finlandia
-niecieplo nieaktywnie niepolska plaza europa 3 - Rauhaniemi Beach Finlandia
-niecieplo nieaktywnie niepolska plaza europa 4 - Gotlandia Szwecja
 
-niecieplo nieaktywnie niepolska gory europa 1 - Tatry S³owacja
-niecieplo nieaktywnie niepolska gory europa 2 - Lom Norwegia
-niecieplo nieaktywnie niepolska gory europa 3 - Are Szwecja
-niecieplo nieaktywnie niepolska gory europa 4 - Alpy Austria
 
-niecieplo nieaktywnie niepolska miasto europa 1 - Bratys³awa S³owacja
-niecieplo nieaktywnie niepolska miasto europa 2 - Budapeszt Wêgry
-niecieplo nieaktywnie niepolska miasto europa 3 - Amsterdam Holandia
-niecieplo nieaktywnie niepolska miasto europa 4 - Marsylia W³ochy
 
-niecieplo nieaktywnie niepolska plaza pozaeuropa 1 - Hellnar Islandia
-niecieplo nieaktywnie niepolska plaza pozaeuropa 2 - Hofn Islandia
-niecieplo nieaktywnie niepolska plaza pozaeuropa 3 - Shirarahama BeachbJaponia
-niecieplo nieaktywnie niepolska plaza pozaeuropa 4 - Grenlandia
 
-niecieplo nieaktywnie niepolska gory pozaeuropa 1 - Taurus Turcja
-niecieplo nieaktywnie niepolska gory pozaeuropa 2 - Kaukaz Rosja
-niecieplo nieaktywnie niepolska gory pozaeuropa 3 - Góry Skaliste Kanada
-niecieplo nieaktywnie niepolska gory pozaeuropa 4 - Alaska Alaska
+-niecieplo nieaktywnie niepolska plaza europa 1 - Ramberg Norwegia
+-niecieplo nieaktywnie niepolska plaza europa 2 - Hietaniemi Finlandia
+-niecieplo nieaktywnie niepolska plaza europa 3 - Rauhaniemi Beach Finlandia
+-niecieplo nieaktywnie niepolska plaza europa 4 - Gotlandia Szwecja
 
-niecieplo nieaktywnie niepolska miasto pozaeuropa 1 - Dubaj Zjednoczone Emiraty Arabskie
-niecieplo nieaktywnie niepolska miasto pozaeuropa 2 - Pekin Chiny
-niecieplo nieaktywnie niepolska miasto pozaeuropa 3 - Toronto Kanada
-niecieplo nieaktywnie niepolska miasto pozaeuropa 4 - San Francisco USA
+-niecieplo nieaktywnie niepolska gory europa 1 - Tatry S³owacja
+-niecieplo nieaktywnie niepolska gory europa 2 - Lom Norwegia
+-niecieplo nieaktywnie niepolska gory europa 3 - Are Szwecja
+-niecieplo nieaktywnie niepolska gory europa 4 - Alpy Austria
+
+-niecieplo nieaktywnie niepolska miasto europa 1 - Bratys³awa S³owacja
+-niecieplo nieaktywnie niepolska miasto europa 2 - Budapeszt Wêgry
+-niecieplo nieaktywnie niepolska miasto europa 3 - Amsterdam Holandia
+-niecieplo nieaktywnie niepolska miasto europa 4 - Marsylia W³ochy
+
+-niecieplo nieaktywnie niepolska plaza pozaeuropa 1 - Hellnar Islandia
+-niecieplo nieaktywnie niepolska plaza pozaeuropa 2 - Hofn Islandia
+-niecieplo nieaktywnie niepolska plaza pozaeuropa 3 - Shirarahama Beach Japonia
+-niecieplo nieaktywnie niepolska plaza pozaeuropa 4 - Grenlandia
+
+-niecieplo nieaktywnie niepolska gory pozaeuropa 1 - Taurus Turcja
+-niecieplo nieaktywnie niepolska gory pozaeuropa 2 - Kaukaz Rosja
+-niecieplo nieaktywnie niepolska gory pozaeuropa 3 - Góry Skaliste Kanada
+-niecieplo nieaktywnie niepolska gory pozaeuropa 4 - Alaska Alaska
+
+-niecieplo nieaktywnie niepolska miasto pozaeuropa 1 - Petersburg Rocja
+-niecieplo nieaktywnie niepolska miasto pozaeuropa 2 - Pekin Chiny
+-niecieplo nieaktywnie niepolska miasto pozaeuropa 3 - Toronto Kanada
+-niecieplo nieaktywnie niepolska miasto pozaeuropa 4 - San Francisco USA
