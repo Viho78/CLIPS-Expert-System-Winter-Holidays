@@ -1,3 +1,5 @@
+;Autor Juliusz Stanczyk;
+
 (defrule tak
 	=>
 	(assert (tak tak))
@@ -222,8 +224,6 @@
 	)
 )
 
-
-
 ;Definicje miejsc;;;;;;;;;;;;;;;;;;;;;;;
 (defrule CostaDelSol
 	(cieplo tak)
@@ -263,7 +263,7 @@
 	(eu tak)
 	(przedzial_cen 4)
 	=>	
-	(printout t "Twoje miejsce to Sycylia we Włoszech" crlf)
+	(printout t "Twoje miejsce to Sycylia we Wloszech" crlf)
 )
 ;;;;;;;;;;;;;;;;;;;;;;;;;
 (defrule Monastyr
@@ -325,7 +325,7 @@
 	(eu tak)
 	(przedzial_cen 2)
 	=>	
-	(printout t "Twoje miejsce to gory Rodopy i Pirin w Bułgarii" crlf)
+	(printout t "Twoje miejsce to gory Rodopy i Pirin w Bulgarii" crlf)
 )
 (defrule SerraDaEstrela
 	(cieplo tak)
@@ -417,7 +417,7 @@
 	(eu tak)
 	(przedzial_cen 3)
 	=>	
-	(printout t "Twoje miejsce to miasto Rzym we Włoszech" crlf)
+	(printout t "Twoje miejsce to miasto Rzym we Wloszech" crlf)
 )
 (defrule Palermo
 	(cieplo tak)
@@ -427,7 +427,7 @@
 	(eu tak)
 	(przedzial_cen 4)
 	=>	
-	(printout t "Twoje miejsce to miasto Palermo we Włoszech" crlf)
+	(printout t "Twoje miejsce to miasto Palermo we Wloszech" crlf)
 )
 ;;;;;;;;;;;;;;;;;;;;;;
 (defrule Kari
@@ -489,7 +489,7 @@
 	(eu tak)
 	(przedzial_cen 2)
 	=>	
-	(printout t "Twoje miejsce to Warna w Bułgarii" crlf)
+	(printout t "Twoje miejsce to Warna w Bulgarii" crlf)
 )
 (defrule Zakyntos
 	(cieplo tak)
@@ -499,7 +499,7 @@
 	(eu tak)
 	(przedzial_cen 3)
 	=>	
-	(printout t "Twoje miejsce to Zakyntos w Grecjii" crlf)
+	(printout t "Twoje miejsce to Zakyntos w Grecji" crlf)
 )
 (defrule Sycylia2
 	(cieplo tak)
@@ -509,7 +509,7 @@
 	(eu tak)
 	(przedzial_cen 4)
 	=>	
-	(printout t "Twoje miejsce to Sycylia we Włoszech" crlf)
+	(printout t "Twoje miejsce to Sycylia we Wloszech" crlf)
 )
 ;;;;;;;;;;;;;;;;;;;
 (defrule Tunis
@@ -653,7 +653,7 @@
 	(eu tak)
 	(przedzial_cen 2)
 	=>	
-	(printout t "Twoje miejsce to miasto Rzym we Włoszech" crlf)
+	(printout t "Twoje miejsce to miasto Rzym we Wloszech" crlf)
 )
 (defrule Ateny
 	(cieplo tak)
@@ -733,25 +733,25 @@
 	(miejsce plaza)
 	(przedzial_cen 2)
 	=>	
-	(printout t "Twoje miejsce to plaza w Łebie w Polsce" crlf)
+	(printout t "Twoje miejsce to plaza w Lebie w Polsce" crlf)
 )
-(defrule Kołobrzeg
+(defrule Kolobrzeg
 	(cieplo nie)
 	(polska tak)
 	(aktywnie tak)
 	(miejsce plaza)
 	(przedzial_cen 3)
 	=>	
-	(printout t "Twoje miejsce to plaza w Kołobrzegu w Polsce" crlf)
+	(printout t "Twoje miejsce to plaza w Kolobrzegu w Polsce" crlf)
 )
-(defrule Władysławowo
+(defrule Wladysławowo
 	(cieplo nie)
 	(polska tak)
 	(aktywnie tak)
 	(miejsce plaza)
 	(przedzial_cen 4)
 	=>	
-	(printout t "Twoje miejsce to plaza w Władysławowie w Polsce" crlf)
+	(printout t "Twoje miejsce to plaza w Wladysławowie w Polsce" crlf)
 )
 ;;;;;;;;;;;;;;;;;;
 (defrule GorySowie
@@ -1431,6 +1431,7 @@
 	(printout t "Twoje miejsce to miasto San Francisco w USA" crlf)
 )
 ;;;;;;;;;;;;;;;
+
 
 
 
